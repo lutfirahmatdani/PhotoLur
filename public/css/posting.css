@@ -1,0 +1,16 @@
+.col-foto {
+    flex: 0 0 40%;
+    max-width: 40%;
+}
+
+.col-info {
+    flex: 0 0 55%;
+    max-width:55%;
+}
+
+.fotonya {
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+    border-radius:10px;
+}

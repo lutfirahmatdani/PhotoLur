@@ -1,0 +1,71 @@
+body {
+    background: linear-gradient(90deg in oklab, rgb(177, 177, 231), rgb(73, 235, 181));
+}
+
+
+.button-login{
+    background-color: #75e909;
+    border: none;
+    color: rgb(13, 220, 161);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 1vh;
+
+}
+
+.button-register{
+    background-color: #75e909;
+    border: none;
+    color: rgb(103, 193, 137);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 1vh;
+
+} 
+
+.beranda{
+    background-color: #75e909;
+    border: none;
+    color: rgb(13, 220, 161);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 1vh;
+}
+
+.col-foto {
+    flex: 0 0 40%;
+    max-width: 40%;
+}
+
+.col-info {
+    flex: 0 0 55%;
+    max-width:55%;
+}
+
+.fotonya {
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+    border-radius:10px;
+}
